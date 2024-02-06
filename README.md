@@ -13,4 +13,20 @@ To achieve this, we will employ a multiple regression model. Our dataset will co
 Data 
 
 We have the following data sources with citations.
+| Data Name | Description | Link | Period |
+| --------- | ----------- | ---- | ------ |
+| Demo      | This is not real | [Test Link](https://www.google.com) | Daily |
 
+
+
+
+Drug use
+Netflix subs
+Fantasy Novels
+Birthrates
+Crime rates
+Unemployment
+Mental Health
+Monthly Amazon Sales
+
+CPI

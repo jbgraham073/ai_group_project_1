@@ -4,7 +4,9 @@ AI Group Project
 
 ## Objective
 
-Our goal is to utilize several datasets from FRED in order to find correlation between crime rate, unemployment, mental health, and inflation.
+Our objective is to identify the primary drivers of inflation within the United States economy. Subsequently, we aim to analyze the repercussions of inflation on various socio-economic factors such as crime rates, unemployment levels, and mental health.
+
+To achieve this, we will employ a multiple regression model. Our dataset will consist of a time series comprising monthly data spanning either the past decade or two decades.
 
 ## Data sets
 

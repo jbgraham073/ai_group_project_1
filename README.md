@@ -26,6 +26,8 @@ We have the following data sources with citations.
 | Mental Health Client Level Data | Annual mental health data describing diagnoses of anxiety, depression, and substance abuse | [Mental Health](https://www.samhsa.gov/data/data-we-collect/mh-cld-mental-health-client-level-data) | Yearly |
 | Federal Government Tax Receipts | Federal Reserve Economic Data, quarterly dataset showing the federal tax income | [Tax Receipts](https://fred.stlouisfed.org/series/W006RC1Q027SBEA) | Quarterly |
 | Federal Government Surplus/Deficit | Federal Reserve Economic Data, monthly data overview of the federal budget surplus or deficit | [Surplus/Deficit](https://fred.stlouisfed.org/series/MTSDS133FMS) | Monthly |
-| Consumer Price Index | A measure of core inflation calculated the Federal Reserve Bank of Cleveland and the Ohio State University. | [CPI](https://fred.stlouisfed.org/series/MEDCPIM158SFRBCLE) | Monthly |
+| Consumer Price Index | A measure of core inflation calculated the Federal Reserve Bank of Cleveland and the Ohio State University | [CPI](https://fred.stlouisfed.org/series/MEDCPIM158SFRBCLE) | Monthly |
+| Foreign Direct Investment | Quarterly data of Foreign Direct Investments | [FDI](https://fred.stlouisfed.org/series/ROWFDIQ027S) | Quarterly |
+| Federal Funds Effective | The central interest rate in the U.S. financial market | [FFE](https://fred.stlouisfed.org/series/FEDFUNDS) | Daily |
 
 

@@ -10,7 +10,7 @@ To achieve this, we will employ a multiple regression model. Our dataset will co
 
 ## Data sets
 
-Data 
+Publicly available economic, mental health, and crime data were collected from multiple resources (cited below), and cleaned using python and MS Copilot in pandas and jupyter notebooks. After cleaning, data discovery was conducted using visualization and statistical analysis.  
 
 We have the following data sources with citations.
 | Data Name | Description | Link | Period |

@@ -30,4 +30,27 @@ We have the following data sources with citations.
 | Federal Funds Effective | The central interest rate in the U.S. financial market | [Federal Funds Effective](https://fred.stlouisfed.org/series/FEDFUNDS) | Daily |
 | Unemployment Rate | The number of unemployed as a percentage of the labor force | [Federal Funds Effective](https://fred.stlouisfed.org/series/UNRATE) | Monthly |
 
+## Usage and Installation Instructions
 
+The Jupyter notebooks used in this analysis will require correct installation of the following Dependencies:
+Pandas, Matplotlyb, os, Numpy, scipy.stats and Prophet
+
+## Results and Summary of Analysis
+
+# Economic Factors with Strongest Correlation to Inflation
+
+![alt text] (image,jpg)
+
+(Analysis of graph from slides)
+
+# The Impact of Inflation on Mental Health, Substance Abuse, and Crime
+
+![alt text] (image,jpg)
+
+(Analysis of graph from slides)
+
+# Prediction for Inflation for the next 2 years
+
+![alt text] (image,jpg)
+
+(Analysis of Graph from slides)

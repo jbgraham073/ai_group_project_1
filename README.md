@@ -25,7 +25,9 @@ We have the following data sources with citations.
 | Rate of Aggravated Assault | Yearly overview of offenses Aggravated Assault | [Aggravated Assault](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend) | Yearly |
 | Rate of Violent Crime | Yearly overview of offenses for violent crime | [Violent Crime](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend) | Yearly |
 | Mental Health Client Level Data | Annual mental health data describing diagnoses of anxiety, depression, and substance abuse | https://www.samhsa.gov/data/data-we-collect/mh-cld-mental-health-client-level-data | Yearly |
-| Federal Government Tax Receipts | Federal Reserve Economic Data describing Federal tax income | https://fred.stlouisfed.org/series/W006RC1Q027SBEA | Quarterly |
+| Federal Government Tax Receipts | Federal Reserve Economic Data, quarterly dataset showing the federal tax income | https://fred.stlouisfed.org/series/W006RC1Q027SBEA | Quarterly |
+| Federal Government Tax Receipts | Federal Reserve Economic Data, monthly data overview of the federal budget surplus or deficit | [https://fred.stlouisfed.org/series/W006RC1Q027SBEA](https://fred.stlouisfed.org/series/W006RC1Q027SBEA) | Monthly |
+
 
 
 

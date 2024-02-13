@@ -15,7 +15,6 @@ Data
 We have the following data sources with citations.
 | Data Name | Description | Link | Period |
 | --------- | ----------- | ---- | ------ |
-| Demo      | This is not real | [Test Link](https://www.google.com) | Daily |
 | Foreign Direct Investment | Quarterly data of Foreign Direct Investments | [Foreign Direct Investement](https://fred.stlouisfed.org/series/ROWFDIQ027S) | Quarterly |
 | GDP | Quarterly data of GDP | [GDP](https://fred.stlouisfed.org/series/GDP) | Quarterly |
 | Rate of Motor Vehicle Theft | Yearly overview of offenses for motor vehicle theft | [Motor Vehicle Theft](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend) | Yearly |
@@ -29,16 +28,3 @@ We have the following data sources with citations.
 | Federal Government Surplus/Deficit | Federal Reserve Economic Data, monthly data overview of the federal budget surplus or deficit | [Surplus/Deficit](https://fred.stlouisfed.org/series/MTSDS133FMS) | Monthly |
 
 
-
-
-
-Drug use
-Netflix subs
-Fantasy Novels
-Birthrates
-Crime rates
-Unemployment
-Mental Health
-Monthly Amazon Sales
-
-CPI

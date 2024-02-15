@@ -39,18 +39,17 @@ Pandas, Matplotlyb, os, Numpy, scipy.stats and Prophet
 
 # Economic Factors with Strongest Correlation to Inflation
 
-![alt text] (image,jpg)
-
-(Analysis of graph from slides)
+Our original objective was to identify primary drivers of inflation within the United States economy. To examine this objective, we made a guess what economic factors might impact inflation, and also what social factors inflation might impact in the United States.
+We did not find as many strong correlations of various economic variables with inflation as we had expected. There were only 3 total strong correlations with inflation out of 16 (tax income, unemployment (-), and anxiety. 
 
 # The Impact of Inflation on Mental Health, Substance Abuse, and Crime
 
-![alt text] (image,jpg)
-
-(Analysis of graph from slides)
+Anxiety and larceny had more strong correlations than any other variable with the data sources we used, each with 10 out of the 16 variables resulting in strong correlations, from all 3 categories of economy, crime, and mental health.
 
 # Prediction for Inflation for the next 2 years
 
-![alt text] (image,jpg)
+Based on our analysis, we do however predict that inflation will continue to rise over the next 2 years. 
 
-(Analysis of Graph from slides)
+# Future Research Scope for the Analytics
+
+It’s recommended to have more macro-economic variables and run it through a multiple regression model using Machine Learning skills to detect the key determinants of inflation for the effective monetary policy. 
